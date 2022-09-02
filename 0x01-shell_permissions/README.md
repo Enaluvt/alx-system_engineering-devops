@@ -13,3 +13,4 @@ Task 8:Sets the permission to the file "hello" as follows-
 Task 9:sets the mode of the file "hello' to 'rwxr-x-wx'
 Task 10:sets the mode of the file 'hello' the same as 'olleh's' mode
 Task 11:Adds execute permission to all subdirectories of the current directory for the owner,the group owner and all other users.Regular  files should not be changed.
+Task 12:creates a directory called 'my dir' with permissions 751 in the working directory

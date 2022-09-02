@@ -10,3 +10,4 @@ Task 8:Sets the permission to the file "hello" as follows-
                .owner: no permission at all
                .Group: no permission at all
                .other users: all the permissions
+Task 9:sets the mode of the file "hello' to 'rwxr-x-wx'
